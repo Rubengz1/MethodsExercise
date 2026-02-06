@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EdO176RX24U=",
+  "dgSpecHash": "pxXptbAavLQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harpe\\Desktop\\NET9\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/rubengonzalez/Desktop/Repos/MethodsExercise/MethodsExercise/MethodsExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/rubengonzalez/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/rubengonzalez/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/rubengonzalez/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
