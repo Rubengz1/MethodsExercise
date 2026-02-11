@@ -13,10 +13,10 @@
             string animal = Console.ReadLine();
             Console.WriteLine("And what city do you live in?");
             string cuidad = Console.ReadLine();
-        Console.WriteLine(
-        $"Makes sense...People from {cuidad} who are named {nombre}, look just like a {animal}! What was your favorite color again? {color}..lame..");
+            Console.WriteLine(
+                $"Makes sense...People from {cuidad} who are named {nombre}, look just like a {animal}! What was your favorite color again? {color}..lame..");
         }
-        
+
         // Math Methods - prt 2
         public static int Add(int Num1, int Num2)
         {
@@ -39,12 +39,12 @@
         }
 
         static void Main(string[] args)
-        { 
+        {
             StoryTime();
-          Console.WriteLine(Add(3, 3));
-         Console.WriteLine(Sub(3, 3));
-         Console.WriteLine(Mult(3, 3));
-         Console.WriteLine(Div(3, 3));
+            Console.WriteLine(Add(3, 3));
+            Console.WriteLine(Sub(3, 3));
+            Console.WriteLine(Mult(3, 3));
+            Console.WriteLine(Div(3, 3));
         }
     }
-    }
+}
