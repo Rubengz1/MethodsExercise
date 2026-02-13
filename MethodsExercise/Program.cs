@@ -18,24 +18,24 @@
         }
 
         // Math Methods - prt 2
-        public static int Add(int Num1, int Num2)
+        public static int Add(int num1, int num2)
         {
-            return Num1 + Num2;
+            return num1 + num2;
         }
 
-        public static int Sub(int Number1, int Number2)
+        public static int Sub(int number1, int number2)
         {
-            return Number1 - Number2;
+            return number1 - number2;
         }
 
-        public static int Mult(int Num1, int Num2)
+        public static int Mult(int num1, int num2)
         {
-            return Num1 * Num2;
+            return num1 * num2;
         }
 
-        public static int Div(int Num1, int Num2)
+        public static int Div(int num1, int num2)
         {
-            return Num1 / Num2;
+            return num1 / num2;
         }
 
         static void Main(string[] args)
